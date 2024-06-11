@@ -1,5 +1,4 @@
 # Personal-Assistant-AI
-Absolutely! Here's a more detailed README content for both projects:
 
 ### Python Personal Assistant
 
